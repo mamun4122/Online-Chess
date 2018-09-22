@@ -10,3 +10,7 @@ You can find the process to build the chess board [here](/files/v1.4.pdf)
 ![chessboard.jpg](/files/chessboard.jpg)
 ![1.jpg](/files/appinterface1.jpg)
 ![2.jpg](/files/appinterface2.jpg)
+
+
+### Notes
+This was a part of my university project. So the code is bit messy & not maintained anymore.
